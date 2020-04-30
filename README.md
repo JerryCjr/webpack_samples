@@ -1,4 +1,4 @@
-# Webpack pieces 
+# Webpack pieces
 
 提供最小化demo 测试webpack的各个功能
 
